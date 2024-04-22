@@ -1,8 +1,8 @@
-# Hello world 👋</br>
+## Hello world 👋</br>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h2>😎 About Me</h2>
+### 😎 About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,20 +13,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 🛠 Tech skills
+### 🛠 Tech skills
 
-#### OS
+##### OS
 
 ![Rhel](https://img.shields.io/badge/Red%20Hat-black?style=flat-square&logo=Red%20Hat&logoColor=EE0000)&nbsp;
 ![CentOS](https://img.shields.io/badge/Centos-262577?style=flat-square&logo=Centos&logoColor=ffffff)&nbsp;
 
-#### EDITOR
+##### EDITOR
 
 ![EditorConfig](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=flat-square&logo=editorconfig&logoColor=000)&nbsp;
 ![.ENV](https://img.shields.io/badge/DOTENV-ECD53F?style=flat-squarege&logo=.env&logoColor=000)&nbsp;
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-squarege&logo=eslint&logoColor=white)&nbsp;
 
-#### Languages (Interesting / Skill Desc Ordered)
+##### Languages (Interesting / Skill Desc Ordered)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)&nbsp;
@@ -41,7 +41,7 @@
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)&nbsp;
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
 
-#### FrameWork / Library
+##### FrameWork / Library
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;
@@ -56,7 +56,7 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)&nbsp;
 
-#### DB
+##### DB
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)&nbsp;
@@ -67,7 +67,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)&nbsp;
 
-#### Other
+##### Other
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
