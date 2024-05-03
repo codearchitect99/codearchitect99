@@ -8,9 +8,11 @@
 - 🌱 Interested in advanced design patterns, architectural principles, and optimizing database performance.
 - 👯 Seeking collaboration on technically demanding software projects.
 - 💬 Open to collaborating on project for Java Spring development, TypeScript, system architecture, or database design.
-- 📫 Reach me at ysw991106@email.com.
+- 📫 Reach me at ysw991106@email.com
 - 😄 Pronouns: He/him
 - ⚡ Enjoys experimenting with new programming languages and frameworks
+
+<img src="https://github-profile-trophy.vercel.app/?username=codeartitect&theme=flat)](https://github.com/codeartitect/github-profile-trophy&column=10" />
 
 ### 🛠 Tech skills
 
@@ -124,9 +126,6 @@
 
 
 
------
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codeartitect&theme=onedark)](https://github.com/codeartitect/github-profile-trophy)
 
 ![codeartitect's github stats](https://github-readme-stats.vercel.app/api?username=codeartitect&show_icons=true)
 ![codeartitect's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeartitect&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
