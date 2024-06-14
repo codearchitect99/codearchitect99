@@ -1,12 +1,12 @@
 # Hello world 👋</br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=codeartitect&theme=flat)](https://github.com/codeartitect/github-profile-trophy&column=9" />
+<img src="https://github-profile-trophy.vercel.app/?username=codeartist99&theme=flat)](https://github.com/codeartist99/github-profile-trophy&column=9" />
 
 ### 😎 About Me
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 Working on web application using Java Spring for backend and TypeScript for frontend.
+- 🔭 Working on web application using **Java Spring** for backend and **TypeScript React** for frontend.
 - 🌱 Interested in advanced design patterns, architectural principles, and optimizing database performance.
 - 👯 Seeking collaboration on technically demanding software projects.
 - 💬 Open to collaborating on project for Java Spring development, TypeScript, system architecture, or database design.
