@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" style="width: auto; height: 21px;" /> &nbsp; 
 <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" style="width: auto; height: 21px;" /> &nbsp; 
 </div>
+
 ##### DB
 
 <div>
@@ -81,6 +82,7 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="width: auto; height: 21px;" /> &nbsp; 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="width: auto; height: 21px;" /> &nbsp; 
 </div>
+
 ##### Linters
 
 <div>
