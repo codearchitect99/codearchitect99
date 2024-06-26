@@ -16,7 +16,7 @@
 
   ### 🛠 Tech skills
 
-  #### Languages
+  ##### Languages
 
   <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"  /> 
@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  /> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"  />    
   </p>
-  #### Framework / Library
+  
+  ##### Framework / Library
   
   <div>
   <p>
@@ -55,16 +56,14 @@
   <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"  /> 
   </p>
   </div>
-  
-  #### DB
+  ##### DB
   
   <p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"  /> 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"  /> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"  /> 
   </p>
-  
-  #### OS
+  ##### OS
   
   <p>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"  /> 
@@ -72,8 +71,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"  /> 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  /> 
   </p>
-  
-  #### Cloud
+  ##### Cloud
   
   <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"  /> 
@@ -81,16 +79,14 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"  /> 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  /> 
   </p>
-  
-  #### Linters
+  ##### Linters
   
   <p>
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"  /> 
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"  /> 
   <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white"  /> 
   </p>
-  
-  #### IDE & Editor
+  ##### IDE & Editor
   
   <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"  /> 
@@ -101,8 +97,7 @@
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"  /> 
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"  /> 
   </p>
-  
-  #### Other
+  ##### Other
   
   <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
