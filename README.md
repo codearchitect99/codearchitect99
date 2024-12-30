@@ -1,6 +1,6 @@
 # Hello world 👋</br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codeartist99&column=9)](https://github.com/codeartist99/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codearchitect99&column=9)](https://github.com/codearchitect99/github-profile-trophy)
 
 ### 😎 About Me
 
