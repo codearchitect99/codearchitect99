@@ -117,11 +117,11 @@
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" style="width: auto; height: 21px;" /> &nbsp; 
 </div>
 
- ![codeartist99's github stats](https://github-readme-stats.vercel.app/api?username=codeartist99&show_icons=true)
-  ![codeartist99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeartist99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+ ![codearchitect99's github stats](https://github-readme-stats.vercel.app/api?username=codearchitect99&show_icons=true)
+  ![codearchitect99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codearchitect99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
   <!--
-  **codeartitect/codeartitect** is a ✨ _special_ ✨ repository because its `README.md` (this file" /> appears on your GitHub profile.
+  **codearchitect99/codearchitect99** is a ✨ _special_ ✨ repository because its `README.md` (this file" /> appears on your GitHub profile.
 
   Here are some ideas to get you started:
 
