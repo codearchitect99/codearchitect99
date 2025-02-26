@@ -14,6 +14,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Enjoys experimenting with new programming languages and frameworks
 
+<!--
 ### 🛠 Tech skills
 
 ##### Languages
@@ -115,7 +116,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" style="width: auto; height: 21px;" /> &nbsp; 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="width: auto; height: 21px;" /> &nbsp; 
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" style="width: auto; height: 21px;" /> &nbsp; 
-</div>
+</div> -->
 
  ![codearchitect99's github stats](https://github-readme-stats.vercel.app/api?username=codearchitect99&show_icons=true)
   ![codearchitect99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codearchitect99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
