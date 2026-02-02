@@ -1,6 +1,6 @@
 # Hello world 👋</br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codearchitect99&column=9)](https://github.com/codearchitect99/github-profile-trophy)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=codearchitect99&theme=flat&column=9)
 
 ### 😎 About Me
 
@@ -118,8 +118,9 @@
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" style="width: auto; height: 21px;" /> &nbsp; 
 </div> -->
 
- ![codearchitect99's github stats](https://github-readme-stats.vercel.app/api?username=codearchitect99&show_icons=true)
-  ![codearchitect99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codearchitect99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codearchitect99&theme=default&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codearchitect99&layout=compact&theme=default&hide_border=true)
 
   <!--
   **codearchitect99/codearchitect99** is a ✨ _special_ ✨ repository because its `README.md` (this file" /> appears on your GitHub profile.
